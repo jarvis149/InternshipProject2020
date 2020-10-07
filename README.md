@@ -1,4 +1,5 @@
 # InternshipProject2020
+Friends Club:
 Project Perspective
 Security Management is a set of procedures and tools adapted by an organization to help protect and secure all data and servers belonging to the organization. With busy life and living far away from our friends, those friends are left behind. This tool may help reconnecting with them.
 A user can invite other friends, chat with their friend(s), make a new group with their friends or join an already exiting group and communicate and share information.
